@@ -1,0 +1,4 @@
+project_id = "gctnhewqerunxpzmahjj"
+
+[functions.analyze-grievance]
+verify_jwt = false
