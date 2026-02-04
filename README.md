@@ -1,6 +1,6 @@
-# Smart Resolver Buddy 🚀
+# Smart Complaint 🚀
 
-Smart Resolver Buddy is an AI-powered student grievance resolution system designed to streamline the process of reporting and resolving campus issues. It uses intelligent classification to route grievances to the correct departments and assists students in drafting professional emails.
+Smart Complaint is an AI-powered student grievance resolution system designed to streamline the process of reporting and resolving campus issues. It uses intelligent classification to route grievances to the correct departments and assists students in drafting professional emails.
 
 ## ✨ Features
 
@@ -11,7 +11,7 @@ Smart Resolver Buddy is an AI-powered student grievance resolution system design
 - **Issue Tracking**: Keeps a local record of submitted grievances and their status.
 - **Modern UI**: Built with React, Tailwind CSS, and shadcn/ui for a premium, responsive experience.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack+
 
 - **Frontend**: React 18, TypeScript, Vite
 - **Styling**: Tailwind CSS, Framer Motion (animations)
